@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{create-react-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/my-app" libraries="{create-react-app/my-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/packages/babel-preset-react-app" libraries="{create-react-app/packages/babel-preset-react-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/packages/create-react-app" libraries="{create-react-app/packages/create-react-app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/packages/react-dev-utils" libraries="{create-react-app/packages/react-dev-utils/node_modules}" />
+    <file url="file://$PROJECT_DIR$/packages/react-scripts" libraries="{create-react-app/packages/react-scripts/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
